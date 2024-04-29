@@ -1,0 +1,19 @@
+version: '3.5'
+services:
+  jellyfin:
+    image: jellyfin/jellyfin
+    container_name: jellyfin
+    user: root:root
+    network_mode: 'host'
+    volumes:
+    # 將目前的目錄作為設定檔的存放處
+      - "/srv/jellyfin/config:/config"
+      - "/srv/jellyfin/cache:/cache"
+    # 將硬碟上的影片目錄掛載至Jellyfin的/media目錄，可掛載多個
+      - "/srv/dev-disk-by-uuid-5c9d5c43-303a-47bc-adb4-3071d02b3c5c/henrietta_data/Animation:/media:ro"
+    # 開機自動啟動容器
+    restart: 'unless-stopped'
+    environment:
+      - JELLYFIN_PublishedServerUrl=http://example.com
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

@@ -1,0 +1,149 @@
+Run at Sat Mar 16 02:28:38 AM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED        STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   30 hours ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     4 days ago     Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+Run at Sat Mar 16 02:29:16 AM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED        STATUS                    PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   30 hours ago   Up 32 seconds (healthy)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     4 days ago     Up 32 seconds             0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+Run at Sat Mar 16 02:29:24 AM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED        STATUS                    PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   30 hours ago   Up 40 seconds (healthy)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     4 days ago     Up 39 seconds             0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+Run at Sat Mar 16 02:30:28 AM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED        STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   30 hours ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     4 days ago     Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Sat Mar 16 02:32:32 AM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED        STATUS                        PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   30 hours ago   Up About a minute (healthy)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     4 days ago     Up About a minute             0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Sat Mar 16 01:46:20 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED        STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   41 hours ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     4 days ago     Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Sat Mar 30 01:31:18 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   2 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     2 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Sun Mar 31 09:13:09 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   2 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     2 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Mon Apr  8 11:53:47 AM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   3 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     3 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Thu Apr 11 02:21:48 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   3 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     4 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Mon Apr 22 08:08:35 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   5 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     6 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Mon Apr 22 09:20:37 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   5 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     6 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Mon Apr 22 09:24:46 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   5 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     6 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Mon Apr 22 09:28:24 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   5 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     6 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Mon Apr 22 10:03:11 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   5 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     6 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Fri Apr 26 07:33:53 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   6 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     6 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Mon Apr 29 06:16:43 PM CST 2024
+jelly
+https-server
+Error response from daemon: No such container: mc
+Error: failed to start containers: mc
+CONTAINER ID   IMAGE                      COMMAND                CREATED       STATUS                                     PORTS                                                                      NAMES
+2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   6 weeks ago   Up Less than a second (health: starting)                                                                              jelly
+dab1607fb05c   httpd:2.4                  "httpd-foreground"     7 weeks ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
