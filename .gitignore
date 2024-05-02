@@ -1,0 +1,16 @@
+SettingMenu/script/CyberPower_PPB_Linux+32bit_v4.10.1.sh
+SettingMenu/script/CyberPower_PPB_Linux+64bit_v4.9.0.sh
+sshKeyHere/
+sslKeyHere/
+
+# 忽略所有日誌文件
+*.log
+
+# 忽略臨時文件夾
+tmp/
+
+# 忽略編譯產生的執行文件
+*.exe
+*.dll
+*.so
+
