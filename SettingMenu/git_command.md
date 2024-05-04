@@ -27,6 +27,12 @@
     *.dll
     *.so
 
+    # 忽略腳本與金鑰
+    SettingMenu/script/CyberPower_PPB_Linux+32bit_v4.10.1.sh
+    SettingMenu/script/CyberPower_PPB_Linux+64bit_v4.9.0.sh
+    sshKeyHere/
+    sslKeyHere/
+
 4. 由於硬碟掛載路徑問題，當 Git 倉庫的位置看起來不安全時（例如，當前使用者無法證明對該目錄的所有權），Git 會阻止操作以防止潛在的安全風險。
 
     fatal: detected dubious ownership in repository at '/srv/dev-disk-by-uuid-89fac8a0-bcac-4167-8ec3-03d8baa856b3/henriettaRAID/HenriettaData/code'  
