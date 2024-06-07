@@ -21,6 +21,11 @@
 
 9. [安裝JellyFin](Jellyfin_install.md)
 10. 設定自動憑證複製轉換、開機自動程序  
+    - 編輯[開機程序]sh檔(/raidLink/henriettaRAID/HenriettaData/code/SettingMenu/script/rebootScript.sh)
+    > docker start jelly  
+    docker start https-server  
+    docker start mc  
+    docker ps  
     - 設定權限以利cron執行  
     chmod +x  /raidLink/henriettaRAID/HenriettaData/code/SettingMenu/script/rebootScript.sh
 

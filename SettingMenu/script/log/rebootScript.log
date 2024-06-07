@@ -201,3 +201,48 @@ CONTAINER ID   IMAGE                      COMMAND                CREATED        
 9cda48f131f6   itzg/minecraft-server      "/start"               2 days ago     Up Less than a second (health: starting)   0.0.0.0:25565->25565/tcp, :::25565->25565/tcp                              mc
 2aa1efe37e5d   jellyfin/jellyfin:latest   "/jellyfin/jellyfin"   2 months ago   Up Less than a second (health: starting)                                                                              jelly
 dab1607fb05c   httpd:2.4                  "httpd-foreground"     2 months ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp   https-server
+
+Run at Sat Jun  1 11:13:16 AM CST 2024
+jelly
+https-server
+mc
+CONTAINER ID   IMAGE                                    COMMAND                  CREATED        STATUS                                     PORTS                                                                                          NAMES
+12bd15ca0b58   marctv/minecraft-papermc-server:latest   "/opt/minecraft/dock…"   12 hours ago   Up Less than a second                      0.0.0.0:25565->25565/tcp, 0.0.0.0:25565->25565/udp, :::25565->25565/tcp, :::25565->25565/udp   mc
+2aa1efe37e5d   jellyfin/jellyfin:latest                 "/jellyfin/jellyfin"     2 months ago   Up Less than a second (health: starting)                                                                                                  jelly
+dab1607fb05c   httpd:2.4                                "httpd-foreground"       2 months ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp                       https-server
+
+Run at Sun Jun  2 12:02:51 PM CST 2024
+jelly
+https-server
+mc
+CONTAINER ID   IMAGE                                    COMMAND                  CREATED        STATUS                                     PORTS                                                                                          NAMES
+12bd15ca0b58   marctv/minecraft-papermc-server:latest   "/opt/minecraft/dock…"   37 hours ago   Up Less than a second                      0.0.0.0:25565->25565/tcp, 0.0.0.0:25565->25565/udp, :::25565->25565/tcp, :::25565->25565/udp   mc
+2aa1efe37e5d   jellyfin/jellyfin:latest                 "/jellyfin/jellyfin"     2 months ago   Up Less than a second (health: starting)                                                                                                  jelly
+dab1607fb05c   httpd:2.4                                "httpd-foreground"       2 months ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp                       https-server
+
+Run at Mon Jun  3 11:25:03 PM CST 2024
+jelly
+https-server
+mc
+CONTAINER ID   IMAGE                                    COMMAND                  CREATED        STATUS                                     PORTS                                                                                          NAMES
+12bd15ca0b58   marctv/minecraft-papermc-server:latest   "/opt/minecraft/dock…"   3 days ago     Up Less than a second                      0.0.0.0:25565->25565/tcp, 0.0.0.0:25565->25565/udp, :::25565->25565/tcp, :::25565->25565/udp   mc
+2aa1efe37e5d   jellyfin/jellyfin:latest                 "/jellyfin/jellyfin"     2 months ago   Up Less than a second (health: starting)                                                                                                  jelly
+dab1607fb05c   httpd:2.4                                "httpd-foreground"       2 months ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp                       https-server
+
+Run at Fri Jun  7 12:44:13 AM CST 2024
+jelly
+https-server
+mc
+CONTAINER ID   IMAGE                                    COMMAND                  CREATED        STATUS                                     PORTS                                                                                          NAMES
+a6f165eb1491   marctv/minecraft-papermc-server:latest   "/opt/minecraft/dock…"   2 days ago     Up Less than a second                      0.0.0.0:25565->25565/tcp, 0.0.0.0:25565->25565/udp, :::25565->25565/tcp, :::25565->25565/udp   mc
+2aa1efe37e5d   jellyfin/jellyfin:latest                 "/jellyfin/jellyfin"     2 months ago   Up Less than a second (health: starting)                                                                                                  jelly
+dab1607fb05c   httpd:2.4                                "httpd-foreground"       2 months ago   Up Less than a second                      0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp                       https-server
+
+Run at Fri Jun  7 04:34:27 PM CST 2024
+jelly
+https-server
+mc
+CONTAINER ID   IMAGE                                    COMMAND                  CREATED        STATUS                           PORTS                                                                                          NAMES
+a6f165eb1491   marctv/minecraft-papermc-server:latest   "/opt/minecraft/dock…"   3 days ago     Up Less than a second            0.0.0.0:25565->25565/tcp, 0.0.0.0:25565->25565/udp, :::25565->25565/tcp, :::25565->25565/udp   mc
+2aa1efe37e5d   jellyfin/jellyfin:latest                 "/jellyfin/jellyfin"     2 months ago   Up 1 second (health: starting)                                                                                                  jelly
+dab1607fb05c   httpd:2.4                                "httpd-foreground"       2 months ago   Up Less than a second            0.0.0.0:80->80/tcp, :::80->80/tcp, 0.0.0.0:443->443/tcp, :::443->443/tcp                       https-server
